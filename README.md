@@ -1,4 +1,4 @@
-# Movies Dataset (TMDB Style)
+# Movies Dataset
 
 A custom-built dataset of 5000+ movies containing rich metadata like overview, popularity score, vote counts, release dates, and more.
 
